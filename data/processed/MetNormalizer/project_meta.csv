@@ -1,0 +1,178 @@
+﻿Batch,Sample Type,Inject Order,Sample Name
+Batch-1,QC,1,QC1
+Batch-1,Actual Sample,2,S20
+Batch-1,Actual Sample,3,S30
+Batch-1,Actual Sample,4,S39
+Batch-1,Actual Sample,5,S49
+Batch-1,Actual Sample,6,S59
+Batch-1,Actual Sample,7,S69
+Batch-1,Actual Sample,8,S78
+Batch-1,QC,9,QC2
+Batch-1,Actual Sample,10,S2
+Batch-1,Actual Sample,11,S3
+Batch-1,Actual Sample,12,S4
+Batch-1,Actual Sample,13,S5
+Batch-1,Actual Sample,14,S6
+Batch-1,Actual Sample,15,S7
+Batch-1,Actual Sample,16,S8
+Batch-1,QC,17,QC3
+Batch-1,Actual Sample,18,S9
+Batch-1,Actual Sample,19,S10
+Batch-1,Actual Sample,20,S11
+Batch-1,Actual Sample,21,S12
+Batch-1,Actual Sample,22,S13
+Batch-1,Actual Sample,23,S14
+Batch-1,Actual Sample,24,S15
+Batch-1,QC,25,QC4
+Batch-1,Actual Sample,26,S16
+Batch-1,Actual Sample,27,S17
+Batch-1,Actual Sample,28,S18
+Batch-1,Actual Sample,29,S19
+Batch-1,Actual Sample,30,S21
+Batch-1,Actual Sample,31,S22
+Batch-1,Actual Sample,32,S23
+Batch-1,QC,33,QC5
+Batch-1,Actual Sample,34,S24
+Batch-1,Actual Sample,35,S25
+Batch-1,Actual Sample,36,S26
+Batch-1,Actual Sample,37,S27
+Batch-1,Actual Sample,38,S28
+Batch-1,Actual Sample,39,S29
+Batch-1,Actual Sample,40,S31
+Batch-1,QC,41,QC6
+Batch-1,Actual Sample,42,S32
+Batch-1,Actual Sample,43,S33
+Batch-1,Actual Sample,44,S34
+Batch-1,Actual Sample,45,S35
+Batch-1,Actual Sample,46,S36
+Batch-1,Actual Sample,47,S37
+Batch-1,Actual Sample,48,S38
+Batch-1,QC,49,QC7
+Batch-1,Actual Sample,50,S40
+Batch-1,Actual Sample,51,S41
+Batch-1,Actual Sample,52,S42
+Batch-1,Actual Sample,53,S43
+Batch-1,Actual Sample,54,S44
+Batch-1,Actual Sample,55,S45
+Batch-1,Actual Sample,56,S46
+Batch-1,QC,57,QC8
+Batch-1,Actual Sample,58,S47
+Batch-1,Actual Sample,59,S48
+Batch-1,Actual Sample,60,S50
+Batch-1,Actual Sample,61,S51
+Batch-1,Actual Sample,62,S52
+Batch-1,Actual Sample,63,S53
+Batch-1,Actual Sample,64,S54
+Batch-1,QC,65,QC9
+Batch-1,Actual Sample,66,S55
+Batch-1,Actual Sample,67,S56
+Batch-1,Actual Sample,68,S57
+Batch-1,Actual Sample,69,S58
+Batch-1,Actual Sample,70,S60
+Batch-1,Actual Sample,71,S61
+Batch-1,Actual Sample,72,S62
+Batch-1,QC,73,QC10
+Batch-1,Actual Sample,74,S63
+Batch-1,Actual Sample,75,S64
+Batch-1,Actual Sample,76,S65
+Batch-1,Actual Sample,77,S66
+Batch-1,Actual Sample,78,S67
+Batch-1,Actual Sample,79,S68
+Batch-1,Actual Sample,80,S70
+Batch-1,QC,81,QC11
+Batch-1,Actual Sample,82,S71
+Batch-1,Actual Sample,83,S72
+Batch-1,Actual Sample,84,S73
+Batch-1,Actual Sample,85,S74
+Batch-1,Actual Sample,86,S75
+Batch-1,Actual Sample,87,S76
+Batch-1,Actual Sample,88,S77
+Batch-1,QC,89,QC12
+Batch-1,Actual Sample,90,S79
+Batch-1,Actual Sample,91,S80
+Batch-1,Actual Sample,92,S81
+Batch-1,Actual Sample,93,S82
+Batch-1,Actual Sample,94,S83
+Batch-1,Actual Sample,95,S84
+Batch-1,Actual Sample,96,S85
+Batch-1,QC,97,QC13
+Batch-1,Actual Sample,98,S86
+Batch-1,Actual Sample,99,S87
+Batch-1,Actual Sample,100,S1
+Batch-1,Actual Sample,101,S88
+Batch-1,Actual Sample,102,S89
+Batch-1,Actual Sample,103,S90
+Batch-1,Actual Sample,104,S91
+Batch-1,QC,105,QC14
+Batch-1,Actual Sample,106,S92
+Batch-1,Actual Sample,107,S93
+Batch-1,Actual Sample,108,S94
+Batch-1,Actual Sample,109,S95
+Batch-1,Actual Sample,110,S96
+Batch-1,Actual Sample,111,S97
+Batch-1,Actual Sample,112,S98
+Batch-1,QC,113,QC15
+Batch-1,Actual Sample,114,S99
+Batch-1,Actual Sample,115,S100
+Batch-1,Actual Sample,116,S101
+Batch-1,Actual Sample,117,S102
+Batch-1,Actual Sample,118,S103
+Batch-1,Actual Sample,119,S104
+Batch-1,Actual Sample,120,S105
+Batch-1,QC,121,QC16
+Batch-1,Actual Sample,122,S106
+Batch-1,Actual Sample,123,S107
+Batch-1,Actual Sample,124,S108
+Batch-1,Actual Sample,125,S109
+Batch-1,Actual Sample,126,S110
+Batch-1,Actual Sample,127,S111
+Batch-1,Actual Sample,128,S112
+Batch-1,QC,129,QC17
+Batch-1,Actual Sample,130,S113
+Batch-1,Actual Sample,131,S114
+Batch-1,Actual Sample,132,S115
+Batch-1,Actual Sample,133,S116
+Batch-1,Actual Sample,134,S117
+Batch-1,Actual Sample,135,S118
+Batch-1,Actual Sample,136,S119
+Batch-1,QC,137,QC18
+Batch-1,Actual Sample,138,S120
+Batch-1,Actual Sample,139,S121
+Batch-1,Actual Sample,140,S122
+Batch-1,Actual Sample,141,S123
+Batch-1,Actual Sample,142,S124
+Batch-1,Actual Sample,143,S125
+Batch-1,Actual Sample,144,S126
+Batch-1,QC,145,QC19
+Batch-1,Actual Sample,146,S127
+Batch-1,Actual Sample,147,S128
+Batch-1,Actual Sample,148,S129
+Batch-1,Actual Sample,149,S130
+Batch-1,Actual Sample,150,S131
+Batch-1,Actual Sample,151,S132
+Batch-1,Actual Sample,152,S133
+Batch-1,QC,153,QC20
+Batch-1,Actual Sample,154,S134
+Batch-1,Actual Sample,155,S135
+Batch-1,Actual Sample,156,S136
+Batch-1,Actual Sample,157,S137
+Batch-1,Actual Sample,158,S138
+Batch-1,Actual Sample,159,S139
+Batch-1,Actual Sample,160,S140
+Batch-1,QC,161,QC21
+Batch-1,Actual Sample,162,S141
+Batch-1,Actual Sample,163,S142
+Batch-1,Actual Sample,164,S143
+Batch-1,Actual Sample,165,S144
+Batch-1,Actual Sample,166,S145
+Batch-1,Actual Sample,167,S146
+Batch-1,Actual Sample,168,S147
+Batch-1,QC,169,QC22
+Batch-1,Actual Sample,170,S148
+Batch-1,Actual Sample,171,S149
+Batch-1,Actual Sample,172,S150
+Batch-1,Actual Sample,173,S151
+Batch-1,Actual Sample,174,S152
+Batch-1,Actual Sample,175,S153
+Batch-1,Actual Sample,176,S154
+Batch-1,QC,177,QC23

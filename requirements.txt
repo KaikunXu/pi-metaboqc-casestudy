@@ -1,0 +1,42 @@
+# ==============================================================================
+# pi-metaboqc-casestudy Dependencies
+# This file lists the Python packages required to run the data preparation 
+# and evaluation scripts in this repository.
+# ==============================================================================
+
+# --- Core Data Processing ---
+pandas==3.0.3        # Data manipulation and standardized extraction
+numpy>=1.26.0        # Numerical operations and array handling
+openpyxl>=3.1.2      # Required by pandas for parsing Excel files (e.g., SERRF dataset)
+
+# --- Logging & Utilities ---
+loguru==0.7.3        # Elegant, comprehensive logging for pipeline scripts
+
+# --- R Integration & Data Parsing ---
+# Note: rpy2 is pinned to 3.6.x to ensure compatibility with the modern
+# localconverter paradigm used in our extraction scripts.
+rpy2==3.6.7          # For extracting data from complex S4 R objects (e.g., notame)
+pyreadr>=0.5.0       # Lightweight library for reading standard .rda/.RData files (e.g., WaveICA)
+
+# ==============================================================================
+# Required R Packages
+# Note: These cannot be installed via pip. They must be installed directly 
+# within your R environment (R >= 4.5.3) for rpy2 and the R scripts to work.
+# ==============================================================================
+#
+# [CRAN Packages]
+# install.packages(c("tibble"))
+#
+# [Bioconductor Packages]
+# if (!require("BiocManager", quietly = TRUE))
+#     install.packages("BiocManager")
+# BiocManager::install(c("Biobase", "SummarizedExperiment"))
+# ==============================================================================
+
+# --- (Optional) Evaluation & Notebook Dependencies ---
+# Uncomment these if you plan to run the Jupyter Notebooks or use the 
+# full pi-metaboqc pipeline locally for evaluation.
+# jupyterlab>=4.0.0
+# matplotlib>=3.8.0
+# seaborn>=0.13.0
+# scikit-learn>=1.4.0
