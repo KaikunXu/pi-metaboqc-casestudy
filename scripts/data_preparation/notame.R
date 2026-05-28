@@ -28,6 +28,8 @@ extract_and_standardize_rda <- function(rda_name) {
     raw_metadata <- pData(target_data)
   }
   
+  raw_intensity[raw_intensity == 0] <- NA
+  
   message("[INFO] Extracting and refactoring specific metadata columns...")
   
   # ============================================================================

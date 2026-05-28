@@ -8,6 +8,7 @@
 # Ignore all files and scripts starting with '#' 
 # (e.g., discarded data, experimental or temporary scripts)
 \#*
+results/
 
 # ------------------------------------------------------------------------------
 # Python Runtime & Compiled Files
